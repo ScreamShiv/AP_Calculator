@@ -1,6 +1,6 @@
-# flutter_app
+# Arithmetic Progress Generator
 
-A new Flutter project.
+Flutter projects for beginners. Learn UI and simple logic.
 
 ## Getting Started
 
