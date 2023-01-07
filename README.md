@@ -6,6 +6,11 @@ Flutter projects for beginners. Learn UI and simple logic.
 
 This project is a starting point for a Flutter application.
 
+
+> Get a basic flutter application :
+
+![Error](https://user-images.githubusercontent.com/37095473/211133834-ca039a36-8ba1-4f13-b1b3-8f26c96f3c12.png)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
